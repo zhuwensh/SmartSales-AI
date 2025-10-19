@@ -330,7 +330,7 @@ complement the aesthetic you've been building! ✨
 
 ## 🎬 Demo Video
 
-[Watch the 3-minute demo walkthrough](https://youtu.be/your-demo-video)
+[Watch the 3-minute demo walkthrough](https://www.youtube.com/watch?v=hKYDm2qstQE)
 
 **Demo Highlights:**
 1. Upload retail data (OnlineRetail.csv)
@@ -574,7 +574,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **GitHub:** [https://github.com/zhuwensh/SmartSales-AI](https://github.com/zhuwensh/SmartSales-AI)
 - **Email:** zhuwensh@gmail.com
 - **Live Demo:** [Coming soon]
-- **Video Demo:** [3-minute walkthrough](https://youtu.be/your-demo-video)
+- **Video Demo:** https://www.youtube.com/watch?v=hKYDm2qstQE
 
 ---
 
@@ -583,7 +583,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - ✅ **Public Code Repo:** [github.com/zhuwensh/SmartSales-AI](https://github.com/zhuwensh/SmartSales-AI)
 - ✅ **Architecture Diagram:** See "Architecture" section above
 - ✅ **Text Description:** Complete README with usage guide
-- ✅ **Demo Video:** [Link to 3-minute demo]
+- ✅ **Demo Video:** https://www.youtube.com/watch?v=hKYDm2qstQE
 - ✅ **Deployed Project:** Runnable locally with `streamlit run app.py`
 - ✅ **AWS Bedrock LLM:** `openai.gpt-oss-20b-1:0` via Bedrock Runtime API
 - ✅ **Reasoning LLMs:** Autonomous SQL generation + intent analysis
