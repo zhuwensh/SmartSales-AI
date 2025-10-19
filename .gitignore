@@ -1,0 +1,48 @@
+# DuckDB database file
+sales_data.duckdb
+sales_data.duckdb.wal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Streamlit
+.streamlit/
+
+# Data files (except sample dataset)
+*.csv
+!OnlineRetail.csv
+*.xlsx
+*.xls
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS Credentials (NEVER commit!)
+.aws/
+**/.aws/
+bedrock/.aws/
+**/credentials
+*.pem
+
+# Cursor IDE
+.cursorignore
+
+# History
+.history/
+
